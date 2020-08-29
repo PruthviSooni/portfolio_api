@@ -1,0 +1,34 @@
+{
+  "certificates": [
+    {
+      "id": "1",
+      "courseName": "The Essential Android O Developer Course (Java)",
+      "courseImg": "https://img-a.udemycdn.com/course/240x135/1154322_86dd_2.jpg",
+      "courseURL": "https://www.udemy.com/certificate/UC-77d8b3aa-72c2-4f53-997c-945a5226c7ce/"
+    },
+    {
+      "id": 2,
+      "courseName": "Python Programming for Beginners in Data Science",
+      "courseImg": "https://img-a.udemycdn.com/course/240x135/2463192_a296.jpg",
+      "courseURL": "https://www.udemy.com/certificate/UC-185662c0-0004-47b5-b693-d97abb324084/"
+    },
+    {
+      "id": 3,
+      "courseName": "Flutter with Firebase",
+      "courseImg": "https://img-a.udemycdn.com/course/240x135/2746240_5666_2.jpg",
+      "courseURL": "https://www.udemy.com/certificate/UC-b499a43e-87d5-4356-942e-f66669804d62/"
+    },
+    {
+      "id": 4,
+      "courseName": "Mastering JSON - Java Script Object Notation",
+      "courseImg": "https://img-a.udemycdn.com/course/240x135/678154_cdbc.jpg",
+      "courseURL": "https://www.udemy.com/certificate/UC-ad2e500a-8f91-4ebf-8bd0-5300b37fa38a/"
+    },
+    {
+      "id": 5,
+      "courseName": "The Complete 2020 Flutter Development Bootcamp with Dart",
+      "courseImg": "https://img-a.udemycdn.com/course/240x135/2259120_305f_6.jpg",
+      "courseURL": "https://www.udemy.com/certificate/UC-3f0e4adc-5dee-4440-b18a-c0688354572f/"
+    }
+  ]
+}
