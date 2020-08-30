@@ -1,80 +1,80 @@
- {
+{
   "projects": [
     {
       "id": "1",
       "title": "Smart Village",
       "description": "This project has many features like it gives information about the village, population of the village, i.e. how many numbers of males ,females and children ",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/smart_village.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/smart_village.png",
       "url": "https://github.com/PruthviSooni/metpur"
     },
     {
       "id": "2",
       "title": "Motofit",
       "description": "Two wheeler vehicle service application that provides various service's option, part instalment to vehicle and pickup and drop service",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/motofit.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/motofit.png",
       "url": "https://github.com/PruthviSooni/motofit"
     },
     {
       "id": "3",
       "title": "MotoFit Admin",
       "description": "This is an backend of the motofit application which is provide the user information ex. user id, address, mobile number etc. It show the service request created by the user",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/motofit.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/motofit.png",
       "url": "https://github.com/PruthviSooni/Motofit_admin"
     },
     {
       "id": "4",
       "title": "Covid-19 Tracker",
       "description": "It provides an information about covid-19 cases from all over the globe and has feature to search specific country in nice and simple format",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/covid_tracker.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/covid_tracker.png",
       "url": "https://github.com/PruthviSooni/Covid-19_tracker"
     },
     {
       "id": "5",
       "title": "Fitness App",
       "description": "This app Provide all type of exercises and has timer functionality",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/fitness_app.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/fitness_app.png",
       "url": "https://github.com/PruthviSooni/fitness_app"
     },
     {
       "id": "6",
       "title": "Bitcoin Ticker",
       "description": "It provide price of bitcoin in different bitcoin currency using the API of bitcoin",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/bitcoin_ticker.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/bitcoin_ticker.png",
       "url": "https://github.com/PruthviSooni/Bitcoin-Ticker"
     },
     {
       "id": "7",
       "title": "BMI Calculator",
       "description": "With the help of this application user can calculate the Body Mass Index of Body",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/bmiCalculator.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/bmiCalculator.png",
       "url": "https://github.com/PruthviSooni/bmiCalculator"
     },
     {
       "id": "8",
       "title": "Weather App",
       "description": "It provide weather data of current device location using the device GPS and you can also search the weather of specific city it uses OpenWeatherAPI",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/weather_app.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/weather_app.png",
       "url": "https://github.com/PruthviSooni/weather_app"
     },
     {
       "id": "9",
       "title": "Dynamic Blog",
       "description": "This is a simple blog where you can create delete the blog using Node.js",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/blog.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/blog.png",
       "url": "https://github.com/PruthviSooni/metpur"
     },
     {
       "id": "10",
       "title": "Youtube Search Demo App",
       "description": "Display search result given by user, It uses Youtube Data API V3 to fatch search result",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/youtube.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/youtube.png",
       "url": "https://github.com/PruthviSooni/YT_Search"
     },
     {
       "id": "11",
       "title": "NewsAPI Demo App",
       "description": "It provides News from different sources through NewsAPI.org, All News channels are seperated by different tabs",
-      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icon/newsAPI.png",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/newsAPI.png",
       "url": "https://github.com/PruthviSooni/NewsApi"
     }
   ]
