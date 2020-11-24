@@ -76,6 +76,21 @@
       "description": "It provides News from different sources through NewsAPI.org, All News channels are seperated by different tabs",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/newsAPI.png",
       "url": "https://github.com/PruthviSooni/NewsApi"
+    },
+    {
+      "id": "12",
+      "title": "Ecomm-Shop",
+      "description": "It provides an list of products of dufferent categories where user can
+ added the products in cart and orders them. While developing this app ,It covered the concept of state management, Connecting Frontend with Backend, Error Handling many more.",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/ecom-shop.png",
+      "url": "https://github.com/PruthviSooni/eCommerce_app"
+    },
+    {
+      "id": "13",
+      "title": "Unknown Messenger",
+      "description": "Unknown Messenger app with Flutter that use to send message to number which is not saved in contact list of whatsApp.",
+      "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/unknown_messenger.png",
+      "url": "https://github.com/PruthviSooni/Unknown-Messenger"
     }
   ]
 }
