@@ -5,91 +5,125 @@
       "title": "Smart Village",
       "description": "This project has many features like it gives information about the village, population of the village, i.e. how many numbers of males ,females and children ",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/smart_village.png",
-      "url": "https://github.com/PruthviSooni/metpur"
+      "url": "https://github.com/PruthviSooni/metpur",
+      "technologies": ["PHP", "HTML", "CSS", "Javascript"]
     },
     {
       "id": "2",
-      "title": "Motofit",
-      "description": "Two wheeler vehicle service application that provides various service's option, part instalment to vehicle and pickup and drop service",
+      "title": "Motofit App",
+      "description": "This is an Frontend side of Motofit Two wheeler vehicle service application that provides various service's option, part instalment to vehicle and pickup and drop service",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/motofit.png",
-      "url": "https://github.com/PruthviSooni/motofit"
+      "url": "https://github.com/PruthviSooni/motofit",
+      "technologies": ["Android", "Firebase", "Java", "XML"]
     },
     {
       "id": "3",
-      "title": "MotoFit Admin",
+      "title": "MotoFit Backend",
       "description": "This is an backend of the motofit application which is provide the user information ex. user id, address, mobile number etc. It show the service request created by the user",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/motofit.png",
-      "url": "https://github.com/PruthviSooni/Motofit_admin"
+      "url": "https://github.com/PruthviSooni/Motofit_admin",
+      "technologies": [
+        "PHP",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "JQuery",
+        "Firebase Web"
+      ]
     },
     {
       "id": "4",
       "title": "Covid-19 Tracker",
       "description": "It provides an information about covid-19 cases from all over the globe and has feature to search specific country in nice and simple format",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/covid_tracker.png",
-      "url": "https://github.com/PruthviSooni/Covid-19_tracker"
+      "url": "https://github.com/PruthviSooni/Covid-19_tracker",
+      "technologies": ["Flutter", "RestAPI", "Dart", "CrossPlatform"]
     },
     {
       "id": "5",
       "title": "Fitness App",
       "description": "This app Provide all type of exercises and has timer functionality",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/fitness_app.png",
-      "url": "https://github.com/PruthviSooni/fitness_app"
+      "url": "https://github.com/PruthviSooni/fitness_app",
+      "technologies": ["Flutter", "RestAPI", "Dart"]
     },
     {
       "id": "6",
       "title": "Bitcoin Ticker",
       "description": "It provide price of bitcoin in different bitcoin currency using the API of bitcoin",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/bitcoin_ticker.png",
-      "url": "https://github.com/PruthviSooni/Bitcoin-Ticker"
+      "url": "https://github.com/PruthviSooni/Bitcoin-Ticker",
+      "technologies": ["Flutter", "RestAPI", "Dart"]
     },
     {
       "id": "7",
       "title": "BMI Calculator",
       "description": "With the help of this application user can calculate the Body Mass Index of Body",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/bmiCalculator.png",
-      "url": "https://github.com/PruthviSooni/bmiCalculator"
+      "url": "https://github.com/PruthviSooni/bmiCalculator",
+      "technologies": ["Flutter", "Dart"]
     },
     {
       "id": "8",
       "title": "Weather App",
       "description": "It provide weather data of current device location using the device GPS and you can also search the weather of specific city it uses OpenWeatherAPI",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/weather_app.png",
-      "url": "https://github.com/PruthviSooni/weather_app"
+      "url": "https://github.com/PruthviSooni/weather_app",
+      "technologies": ["Flutter", "RestAPI", "Dart"]
     },
     {
       "id": "9",
       "title": "Dynamic Blog",
       "description": "This is a simple blog where you can create delete the blog using Node.js",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/blog.png",
-      "url": "https://github.com/PruthviSooni/metpur"
+      "url": "https://github.com/PruthviSooni/metpur",
+      "technologies": [
+        "Node.js",
+        "ExpressJs",
+        "RestAPI",
+        "Heroku",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
     },
     {
       "id": "10",
       "title": "Youtube Search Demo App",
       "description": "Display search result given by user, It uses Youtube Data API V3 to fatch search result",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/youtube.png",
-      "url": "https://github.com/PruthviSooni/YT_Search"
+      "url": "https://github.com/PruthviSooni/YT_Search",
+      "technologies": ["Flutter", "RestAPI", "Dart", "Youtube API"]
     },
     {
       "id": "11",
       "title": "NewsAPI Demo App",
       "description": "It provides News from different sources through NewsAPI.org, All News channels are seperated by different tabs",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/newsAPI.png",
-      "url": "https://github.com/PruthviSooni/NewsApi"
+      "url": "https://github.com/PruthviSooni/NewsApi",
+      "technologies": ["Flutter", "RestAPI", "Dart"]
     },
     {
       "id": "12",
       "title": "Ecomm-Shop",
       "description": "It provides an list of products of dufferent categories where user can added the products in cart and orders them. While developing this app ,It covered the concept of state management, Connecting Frontend with Backend, Error Handling many more.",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/ecom-shop.png",
-      "url": "https://github.com/PruthviSooni/eCommerce_app"
+      "url": "https://github.com/PruthviSooni/eCommerce_app",
+      "technologies": [
+        "Flutter",
+        "Firebase API",
+        "Firebase Auth",
+        "Realtime Database",
+        "Dart"
+      ]
     },
     {
       "id": "13",
       "title": "Unknown Messenger",
       "description": "Unknown Messenger app with Flutter that use to send message to number which is not saved in contact list of whatsApp.",
       "icon": "https://raw.githubusercontent.com/PruthviSooni/projects_json/master/icons/unknown_messenger.png",
-      "url": "https://github.com/PruthviSooni/Unknown-Messenger"
+      "url": "https://github.com/PruthviSooni/Unknown-Messenger",
+      "technologies": ["Flutter", "HIVE Database", "Whatsapp API", "Dart"]
     }
   ]
 }
